@@ -2,7 +2,7 @@ https://user-images.githubusercontent.com/106367218/179420073-feaf2786-8289-4c03
 
 In this video Dashboard is only for --admin roles. As you will notice new users are not having dashboard options.
 
-# E-COMMERCE TUTORIAL
+# E-COMMERCE WEBSITE
 Hi! My name is **Sheersh Tiwari**, I have created this tutorial to teach MERN Stack for free on YouTube.
 
 # Prerequisite
