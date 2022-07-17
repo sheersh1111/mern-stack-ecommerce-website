@@ -1,0 +1,20 @@
+{
+            
+    "name": "product8",
+    "description": "this is a sample product",
+    "price": 1200,
+    "ratings": 1.5,
+    "category": "Laptop",
+    "stock": 1,
+    "numofReviews": 1,
+    "images":[ {
+        
+        "url":"https://i.ibb.co/DRST11n/1.webp"
+    
+    },
+    {
+        "url":"https://i.ibb.co/DRST11n/1.webp"
+    }]
+   
+    
+}

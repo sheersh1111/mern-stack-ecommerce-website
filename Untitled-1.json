@@ -1,0 +1,41 @@
+{
+    "name": "e-commerce",
+    "version": "1.0.0",
+    "description": "",
+    "main": "backend/server.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node backend/server.js",
+      "dev": "nodemon backend/server.js",
+      "heroku-postbuild":"NPM_CONFIG_PRODUCTION=false && npm install --prefix frontend && npm run build --prefix frontend"
+,      "build":"npm run build"       
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "@material-ui/lab": "^4.0.0-alpha.61",
+      "atob": "^2.1.2",
+      "bcryptjs": "^2.4.3",
+      "body-parser": "^1.20.0",
+      "cloudinary": "^1.30.0",
+      "compress-images": "^2.0.5",
+      "cookie-parser": "^1.4.6",
+      "cors": "^2.8.5",
+      "dotenv": "^16.0.1",
+      "express": "^4.18.1",
+      "express-fileupload": "^1.3.0",
+      "express-upload": "^0.1.0",
+      "jsonwebtoken": "^8.5.1",
+      "localStorage": "^1.0.4",
+      "mongoose": "^6.3.8",
+      "nodemailer": "^6.7.5",
+      "nodemon": "^2.0.16",
+      "slugify": "^1.6.5",
+      "stripe": "^9.11.0",
+      "validator": "^13.7.0"
+    },
+    "engines":{
+      "node":"16.15.0"
+    }
+  }
+  

@@ -1,0 +1,33 @@
+.notFound {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    top: 40%;
+    position: relative;
+    margin-top: 5%;
+}
+.notFound >p{
+    position: absolute;
+    top: 20%;
+    font: 300 4vmax "Roboto";
+    border: 1px solid white;
+    width: 80px;
+    height: 80px;
+    color: white;
+    background-color: tomato;
+    border-radius: 100%;
+}
+.notFound > h1{
+    font: 300 2vmax cursive;
+    padding-top: 10%;
+}
+.notFoundButton{
+    width: 100px;
+    height: 50px;
+    margin-top: 20px;
+    background-color: rgba(0,0,0,0.2);
+    font: 300 1.2vmax "Luicada sans";
+    cursor: pointer;
+    
+}
