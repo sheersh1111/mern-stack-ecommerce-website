@@ -1,4 +1,4 @@
-https://user-images.githubusercontent.com/106367218/179419243-562cbc0b-71d2-4c64-b5af-68ef8d64e2e4.mp4
+
 
 In this video Dashboard is only for --admin roles. As you will notice new users are not having dashboard options.
 
