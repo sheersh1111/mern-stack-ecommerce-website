@@ -1,3 +1,7 @@
+# Deployed Link
+https://inquisitive-fenglisu-f1b4b7.netlify.app/
+
+
 https://user-images.githubusercontent.com/106367218/179420073-feaf2786-8289-4c03-a8d2-b70d6c40474f.mp4
 
 In this video Dashboard is only for --admin roles. As you will notice new users are not having dashboard options.
